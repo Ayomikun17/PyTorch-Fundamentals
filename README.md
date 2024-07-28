@@ -1,2 +1,2 @@
 # PyTorch-Fundamentals
-Describing my journey in learning the PyTorch framework
+Documenting my journey in learning the PyTorch framework
